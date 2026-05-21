@@ -189,6 +189,13 @@ git pull
 4. Update README.md skills table
 5. Test with Claude Code
 
+## Fork policy (PBS Wisconsin)
+
+This is a fork of `jamditis/claude-skills-journalism`. Issues and PRs target this fork only (`public-media-work/claude-skills-journalism`).
+
+- **Tweaks to existing skills** for our workflows stay on the fork. No upstream PR needed.
+- **Substantially new skills** — original work or skills ported from our tooling that don't already exist upstream — are candidates for an upstream PR to `jamditis/claude-skills-journalism`. Flag these when committing so we can evaluate.
+
 ## Style guidelines
 
 - Use sentence case for headings, not title case
